@@ -14,4 +14,6 @@ and you can regulate the angle by dragging the ball at the left and up in the sc
 if you drag, number under the ball will vary.
 
 Please take this manual, so you should enjoy this file.
-  
+
+https://drive.google.com/file/d/1zjqnR2oKanS7z46YxkXS8txJSKOzdGA8/view?usp=sharing
+this link can connect you to file.
